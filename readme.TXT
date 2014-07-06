@@ -1,6 +1,4 @@
-
-===============================================================================
-                                                                           reverse()
+reverse()
 method will reverse the direction of the whole list regardless of which node is calling it.
 time complexity O(N) : traversing next and prev. 
 space complexity O(1) : no new allocation required for reversing the list
@@ -24,3 +22,4 @@ space complexity O(1) : allocating the new node
 
 The runnable source code can be also accessed in the online compiler service (ideone): https://ideone.com/zHg9RF
 
+GitHub address : https://github.com/3deggi/doublelinkedlist
